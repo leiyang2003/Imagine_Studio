@@ -1,0 +1,22 @@
+# API Key 和本地配置（切勿提交）
+.env
+.env.local
+.env.*.local
+
+# 运行产生的日志/会话（可选忽略，便于部署时不带上本地数据）
+chat_logs/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+myenv/
+*.egg-info/
+.eggs/
+
+# 编辑器 / 系统
+.DS_Store
+*.swp
+*.swo
+error_messages.txt
