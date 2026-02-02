@@ -1,5 +1,9 @@
 flask
 python-dotenv
 xai_sdk
-websockets
+google-genai
 gunicorn
+requests
+pypdf
+sentence-transformers
+openai
